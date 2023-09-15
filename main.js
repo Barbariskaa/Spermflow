@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 5054;
 app.use(express.json({ limit: '50mb' }));
 
-const apiKey = 'VF.DM.650462c7d7fba600077757d2.yiw3MOJydwt3jYeN';
+const apiKey = '';
 
 const userID = 'user_123';
 
