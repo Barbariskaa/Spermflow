@@ -28,7 +28,7 @@
 ![](https://i.imgur.com/U7waCUf.png)
 
 
-Заходим во вкладку Dialog API, там Копируем значение из Primary key и вставляем в скрипте в переменную apiKey, между кавычек.
+Заходим во вкладку Dialog API, там Копируем значение из Primary key и вставляем в скрипте в переменную apiKey в файле main.js, между кавычек.
 Запускаем ассистента через кнопку старта, жмем Run Start. Все. По идее больше запускать не надо, должно работать и так. Без запуска будешь ловить 404, как тут:
 `{"code":404,"status":"Not Found","dateTime":"2023-06-19T17:15:41.992Z","timestamp":1687194941992,"data":"Model not found. Ensure project is properly rendered."}`
 
